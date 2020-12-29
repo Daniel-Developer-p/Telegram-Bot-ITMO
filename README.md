@@ -10,7 +10,7 @@ pip install pyTelegramBotAPI
 pip install requests
 You also need to register the site and bot api in the file main.py
 
-api_weather = ''
-api_telegram = ''
+api_weather = ""
+api_telegram = ""
 
 @PRODUCTION BY ITMO STUDENT
